@@ -30,6 +30,6 @@ int main() {
     cout << "\nBienvenido al sistema.\n";
     cout << "Acceso concedido.\n";
     cout << "Intentos fallidos: " << intentos_fallidos << endl;
-    Cout <<"Rodrigo Adrian Barrios Monteroso" ;
+    cout <<"Rodrigo Adrian Barrios Monteroso" ;
     return 0;
 }
